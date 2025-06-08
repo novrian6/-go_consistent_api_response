@@ -1,4 +1,4 @@
-# -go_consistent_api_response
+# go_consistent_api_response
 
 
 This is repo of code from an article: https://novrian.substack.com/publish/post/165502113
